@@ -14,17 +14,6 @@ enthusiastic and a programmer. Currently working with collaborative
 robots which involves sensors and control along with Orocos and Robot 
 Operating System(ROS).
 
-[I support free software][support].
-
-[support]: https://gist.github.com/you-create/12acdc03f08646c3deae88e59fae15b2
-
-[github]: https://github.com/you-create
-[dribbble]: https://dribbble.com/you_create
-[unsplash]: https://unsplash.com/@you_create
-[medium]: https://medium.com/@you_create
-[openprocessing]: https://www.openprocessing.org/user/206009
-[instagram]: https://www.instagram.com/you_create.designs
-
 ## Things I deal with on the computer
 
 - ROS1 (currently exploring ROS2)
