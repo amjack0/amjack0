@@ -21,7 +21,6 @@ Operating System(ROS).
 - C++
 - cmake
 - Markdown
-- https://github.com/amjack0/hit-counter
 - ...and more !
 
 ## cheers to open source community
