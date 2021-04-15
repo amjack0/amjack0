@@ -14,6 +14,8 @@ enthusiastic and a programmer. Currently working with collaborative
 robots which involves sensors and control along with Orocos and Robot 
 Operating System(ROS).
 
+For questions and answers about ROS, here is my profile on ros.org, [Profile link](https://answers.ros.org/users/57146/amjack/)
+
 ## Things I deal with on the computer
 
 - ROS1 (currently exploring ROS2)
