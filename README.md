@@ -11,7 +11,7 @@
 
 My name is Mujib Gouri. I study Mechatronics. I am a robotics
 enthusiastic and a programmer. Currently working with collaborative
-robots which involves sensors and control along with Orocos and Robot 
+robots which involves motion and control along with Orocos and Robot 
 Operating System(ROS).
 
 For questions and answers about ROS, here is my profile on ros.org, [Profile link](https://answers.ros.org/users/57146/amjack/)
