@@ -22,7 +22,7 @@ Videos and other related content can be found under, [Youtube link](https://www.
 - ROS1 (currently exploring ROS2)
 - Orocos
 - C++
-- cmake
+- CMake
 - Markdown
 - ...and more !
 
