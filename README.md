@@ -9,8 +9,8 @@
 	<img align="right" src="https://camo.githubusercontent.com/cd359e9155b21368d57ba6e828e4fa3aa1f1babf/68747470733a2f2f7374617469632e6673662e6f72672f6e6f73766e2f61707065616c323032302f737072696e672f6673662e706e67">
 </a>
 
-My name is Mujib Gouri. I study Mechatronics. I am robotics
-enthusiastic and a programmer. Currently working with collaborative
+My name is Mujib Gouri. I am a mechatronics engineer. I am a robotics
+enthusiast and a programmer. Currently working with collaborative
 robots which involves motion and control along with Orocos and Robot 
 Operating System(ROS).
 
@@ -25,6 +25,7 @@ Also, find my articles/blogs on medium; [Medium link](https://mujibgouri.medium.
 - Orocos
 - C++
 - CMake
+- Python
 - Markdown
 - ...and more !
 
