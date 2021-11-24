@@ -10,7 +10,7 @@
 </a>
 
 My name is Mujib Gouri. I am a mechatronics engineer. I am a robotics
-enthusiast and a programmer. Currently working with collaborative
+enthusiast and a programmer. Currently working with collaborative and industrial
 robots which involves motion and control along with Orocos and Robot 
 Operating System(ROS).
 
