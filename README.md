@@ -17,7 +17,8 @@ Operating System(ROS).
 For questions and answers about ROS, here is my profile on ros.org, [Profile link](https://answers.ros.org/users/57146/amjack/) \
 Videos and other related content can be found under, [Youtube link](https://www.youtube.com/channel/UCkPByM1wzCgjvs0kOxL_PNA )
 
-Also, find my articles/blogs on medium; [Medium link](https://mujibgouri.medium.com/)
+Also, find my articles/blogs on medium; [Medium link](https://mujibgouri.medium.com/) and instagram ; [instagram link](https://www.instagram.com/invites/contact/?i=a38x6i4in837&utm_content=nz6drnu)
+
 
 ## Things I deal with on the computer
 
