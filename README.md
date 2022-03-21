@@ -14,10 +14,10 @@ enthusiast and a programmer. Currently working with collaborative and industrial
 robots which involves motion and control along with Orocos and Robot 
 Operating System(ROS).
 
-For questions and answers about ROS, here is my profile on ros.org, [Profile link](https://answers.ros.org/users/57146/amjack/) \
-Videos and other related content can be found under, [Youtube link](https://www.youtube.com/channel/UCkPByM1wzCgjvs0kOxL_PNA )
+For questions and answers about ROS, here is my profile on ros.org, [Profile](https://answers.ros.org/users/57146/amjack/) \
+Videos and other related content can be found under, [Youtube](https://www.youtube.com/channel/UCy5HdGzm2zD_j62KLxxmGHQ/featured )
 
-Also, find my articles/blogs on medium; [Medium link](https://mujibgouri.medium.com/) and instagram ; [instagram link](https://www.instagram.com/invites/contact/?i=a38x6i4in837&utm_content=nz6drnu)
+Also, find my articles/blogs on medium and instagram at [Medium](https://mujibgouri.medium.com/) and [instagram](https://www.instagram.com/invites/contact/?i=a38x6i4in837&utm_content=nz6drnu)
 
 
 ## Things I deal with on the computer
