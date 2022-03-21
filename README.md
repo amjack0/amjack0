@@ -15,7 +15,7 @@ robots which involves motion and control along with Orocos and Robot
 Operating System(ROS).
 
 For questions and answers about ROS, here is my profile on ros.org, [Profile link](https://answers.ros.org/users/57146/amjack/) \
-Videos and other related content can be found under, [Youtube link](https://www.youtube.com/channel/UCy5HdGzm2zD_j62KLxxmGHQ/featured )
+Videos and other related content can be found under, [Youtube link](https://www.youtube.com/channel/UCkPByM1wzCgjvs0kOxL_PNA )
 
 Also, find my articles/blogs on medium; [Medium link](https://mujibgouri.medium.com/)
 
