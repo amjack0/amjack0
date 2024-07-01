@@ -11,22 +11,17 @@
 
 My name is Mujib Gouri. I am a mechatronics engineer. I am a robotics
 enthusiast and a programmer. Currently working with collaborative and industrial
-robots which involves motion and control along with Orocos and Robot 
-Operating System(ROS).
+robots which involves motion and control along with C++ and python.
 
 For questions and answers about ROS, here is my profile at [ROS org](https://answers.ros.org/users/57146/amjack/). \
-Videos and other related content can be found under [Youtube](https://www.youtube.com/channel/UCy5HdGzm2zD_j62KLxxmGHQ/featured ).
-
-Also, find my articles/blogs on [Medium](https://mujibgouri.medium.com/) and at [instagram](https://www.instagram.com/invites/contact/?i=a38x6i4in837&utm_content=nz6drnu).
-
 
 ## Things I deal with on the computer
 
-- ROS1 (currently exploring ROS2)
-- Orocos
-- C++
-- CMake
 - Python
+- C++
+- ROS1/2
+- Orocos
+- CMake
 - Markdown
 - ...and more !
 
