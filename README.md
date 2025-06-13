@@ -24,7 +24,7 @@ robots which involves motion and control along with C++ and python.
 - Markdown
 - ...and more !
 
-## cheers to open source community
+## Kudos to open source community
 
 <a href="https://www.fsf.org">
 	<img align="left" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="100" height="100" >
